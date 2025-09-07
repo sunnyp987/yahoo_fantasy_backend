@@ -10,7 +10,7 @@ CLIENT_SECRET = "36739b02d7b5306a4d0e246f94f205a911047861"
 LEAGUE_KEY = "461.l.234838"
 TEAM_KEY = "461.l.234838.t.10"
 REDIRECT_URI = "https://localhost/callback"
-REFRESH_TOKEN = "YOUR_REFRESH_TOKEN"  # Replace with your actual refresh token
+REFRESH_TOKEN = "c48d6d48shugxjxq6gf8vnj5jm7whvbb&state=azft6C3E6T53XUVlAjDlTgy3rONEnf"  # Replace with your actual refresh token
 MY_TEAM_NAME = "Bhoserina"
 
 BASE_URL = "https://fantasysports.yahooapis.com/fantasy/v2"
